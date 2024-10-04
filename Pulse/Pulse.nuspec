@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>XomingOut</authors>
+    <owners>XomingOut</owners>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/gifoff/Pulse</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Пакет для взаимодействия с социальной сетью Пульс в Тинькофф Инвестициях</description>
+    <releaseNotes>Добавлены дополнительные свойства</releaseNotes>
+    <copyright>Copyright 2024</copyright>
+    <tags>tbank pulse tinkoff пульс тинькоф тбанк</tags>
+  </metadata>
+</package>

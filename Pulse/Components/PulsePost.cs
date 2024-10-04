@@ -5,9 +5,13 @@
     /// </summary>
     public class PulsePost
     {
+        public string Id;
+        public int CommentsCount;
         public DateTime Inserted;
         public PulsePostOwner Owner;
         public PulsePostContent Content;
+        public PulsePostReactions Reactions;
+        public List<string> ServiceTags = new();
 
         public override string ToString()
         {

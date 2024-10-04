@@ -5,6 +5,8 @@
     /// </summary>
     public class PulsePostContent
     {
-        public string Text = "";
+        public string Text = string.Empty;
+        public List<PulsePostInstrument> Instruments = new();
+        public List<PulsePostHashtag> Hashtags = new();
     }
 }

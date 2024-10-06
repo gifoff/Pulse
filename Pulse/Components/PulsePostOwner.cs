@@ -10,6 +10,5 @@
         public bool DonationActive = false;
         public bool Block = false;
         public string Image = string.Empty;
-        public List<string> ServiceTags = new();
     }
 }
